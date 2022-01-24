@@ -1,0 +1,16 @@
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.csproj.AssemblyReference.cache
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.AssemblyInfoInputs.cache
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.AssemblyInfo.cs
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\digit\AprendendoSintaxe\bin\Debug\net5.0\AprendendoSintaxe.exe
+C:\Users\digit\AprendendoSintaxe\bin\Debug\net5.0\AprendendoSintaxe.deps.json
+C:\Users\digit\AprendendoSintaxe\bin\Debug\net5.0\AprendendoSintaxe.runtimeconfig.json
+C:\Users\digit\AprendendoSintaxe\bin\Debug\net5.0\AprendendoSintaxe.runtimeconfig.dev.json
+C:\Users\digit\AprendendoSintaxe\bin\Debug\net5.0\AprendendoSintaxe.dll
+C:\Users\digit\AprendendoSintaxe\bin\Debug\net5.0\ref\AprendendoSintaxe.dll
+C:\Users\digit\AprendendoSintaxe\bin\Debug\net5.0\AprendendoSintaxe.pdb
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.dll
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\ref\AprendendoSintaxe.dll
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.pdb
+C:\Users\digit\AprendendoSintaxe\obj\Debug\net5.0\AprendendoSintaxe.genruntimeconfig.cache
